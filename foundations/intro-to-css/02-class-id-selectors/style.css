@@ -1,0 +1,20 @@
+.alert-text{
+    background-color: rgb(255,176,156);
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+}
+#myHeader{
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.size{
+    font-size: 24px;
+}
+
+#anotherId{
+    background-color:rgb(144, 238, 144)  ;
+    font-size: 24px;
+    font-weight: bold;
+}
